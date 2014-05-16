@@ -1,0 +1,14 @@
+Flask==0.10.1
+Genshi==0.7
+Jinja2==2.7.2
+MarkupSafe==0.23
+Werkzeug==0.9.4
+cffi==0.8.2
+cryptography==0.4
+itsdangerous==0.24
+lxml==3.3.5
+pyOpenSSL==0.14
+pycparser==2.10
+relatorio==0.6.0
+six==1.6.1
+wsgiref==0.1.2
